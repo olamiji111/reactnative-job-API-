@@ -43,22 +43,7 @@
 and many more, including code architecture and reusability 
 
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/olamiji111!/project_react_native_jobs.git
-cd project_react_native_jobs
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
 
 ```bash
 npm start
