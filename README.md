@@ -44,10 +44,3 @@ and many more, including code architecture and reusability
 
 
 
-
-```bash
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project
-
